@@ -1,7 +1,7 @@
 Hi there, world 👋
 
-- 🔭 Currently... starting the September cohort with Tech Elevator. Ready for some crisp autumn air. Looking forward to the months of learning ahead!
-- 💬 Ask me about... my current work/study playlist - plants - anything food
-- 📫 Reach me on... Slack or maryburgardt@gmail.com
+- 🔭 Currently... learning PHP, Figma and exploring topics in web security - enhancing my portfolio site - seeking a full time dev position (full stack, front or back)
+- 💬 Ask me about... anything food - the science of sourdough - diversity in tech - Rap Music
+- 📫 Reach me on... maryburgardt@gmail.com  -  LinkedIn
 - 😄 Pronouns... she/her
-- ⚡ Fun fact... I love connecting with new people to dicuss passions or provide peer support. I want to bring empathy and vulnerability in everything I do.
+- ⚡ Fun fact... I am passionate about pens. Empathy always.

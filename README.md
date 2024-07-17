@@ -1,4 +1,4 @@
-Hi there, world 👋
+Hello world 👋
 
 - 🔭 Currently... building with Bootstrap, exploring topics in web security - enhancing my portfolio site - seeking a full time dev position (full stack, front or back)
 - 💬 Ask me about... anything food - the science of sourdough - diversity in tech - Rap Music
